@@ -21,25 +21,25 @@ const Certificate = () => {
       <h2 className={styles["slider-header"]}>Certificate</h2>
         <Slider {...settings} initialSlide={0}>
           <div className={styles["slide"]}>
-            <img src="./assets/certificate/front.png" alt="Slide 1" />
+            <img src="https://portfolio-supanut.vercel.app/assets/certificate/front.png" alt="Slide 1" />
           </div>
           <div className={styles["slide"]}>
-            <img src="./assets/certificate/database.png" alt="Slide 2" />
+            <img src="https://portfolio-supanut.vercel.app//assets/certificate/database.png" alt="Slide 2" />
           </div>
           <div className={styles["slide"]}>
-            <img src="./assets/certificate/excal.png" alt="Slide 3" />
+            <img src="https://portfolio-supanut.vercel.app/assets/certificate/excal.png" alt="Slide 3" />
           </div>
           <div className={styles["slide"]}>
-            <img src="./assets/certificate/born.png" alt="Slide 4" />
+            <img src="https://portfolio-supanut.vercel.app/assets/certificate/born.png" alt="Slide 4" />
           </div>
           <div className={styles["slide"]}>
-            <img src="./assets/certificate/cyberbasic.png" alt="Slide 5" />
+            <img src="https://portfolio-supanut.vercel.app/assets/certificate/cyberbasic.png" alt="Slide 5" />
           </div>
           <div className={styles["slide"]}>
-            <img src="./assets/certificate/hp.png" alt="Slide 6" />
+            <img src="https://portfolio-supanut.vercel.app/assets/certificate/hp.png" alt="Slide 6" />
           </div>
           <div className={styles["slide"]}>
-            <img src="./assets/certificate/network.png" alt="Slide 7" />
+            <img src="https://portfolio-supanut.vercel.app/assets/certificate/network.png" alt="Slide 7" />
           </div>
           <div className={styles["slide"]}>
             <img src="./assets/certificate/openlearn.png" alt="Slide 8" />
