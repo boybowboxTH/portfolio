@@ -24,7 +24,7 @@ const Certificate = () => {
             <img src="https://portfolio-supanut.vercel.app/assets/certificate/front.png" alt="Slide 1" />
           </div>
           <div className={styles["slide"]}>
-            <img src="https://portfolio-supanut.vercel.app//assets/certificate/database.png" alt="Slide 2" />
+            <img src="https://portfolio-supanut.vercel.app/assets/certificate/database.png" alt="Slide 2" />
           </div>
           <div className={styles["slide"]}>
             <img src="https://portfolio-supanut.vercel.app/assets/certificate/excal.png" alt="Slide 3" />
