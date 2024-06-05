@@ -1,0 +1,57 @@
+[
+  {
+    "title": "What is JavaScript",
+    "imageSrc": "projects/javascript-is.png",
+    "description": "Final Project WebPrograming Class Meio University Create a Poster That Explains What is JavaScript And Studying In Japanese Language Then Making Me Even More Enjoyable",
+    "userid":"",
+    "skills": ["HTML", "JavaScript", "CSS"],
+    "demo": "https://javascript-nihongo.netlify.app",
+    "source": "https://github.com/boybowboxTH/Javascript-is"
+  },
+  {
+    "title": "Dental Clinic",
+    "imageSrc": "projects/visakra.png",
+    "description": "This Final Project DataBase Class Full Stack WebSite Make With UseCase Dental Clinic And Only One Week To Prepare It Responsive Not Good Enough",
+    "userid": "UserID: test@gmail.com PW:12345 \n AdminID: admin@gmail.com PW:12345",
+    "skills": ["PHP", "Bootstrap5", "SQL", "Sass"],
+    "demo": "http://visakraclinic.byethost33.com",
+    "source": "https://github.com/boybowboxTH/DentalClinicManagement_php_sql"
+    
+  },
+  {
+    "title": "TinDog",
+    "imageSrc": "projects/tindog.png",
+    "description": "This Project is a Training Ground For Using HTML And CSS To Create a Chat Application Interface Inspired By a Popular Platform And I'm Genuinely Interested In Creating This Type Of Webpage Actively Studying To Mobile Development",
+    "userid":"",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://tindog-chat.netlify.app/",
+    "source": "https://github.com/boybowboxTH/11.3-TinDog-Project"
+  },
+  {
+    "title": "NoteMe",
+    "imageSrc": "projects/noteme.png",
+    "description": "It's a Mini Project For My Web Development Bootcamp 2024 Focusing On Practicing React And Utilizing ReactHooks To Facilitate Dynamic Value Changes",
+    "userid":"",
+    "skills": ["React", "ReactHook", "CSS"],
+    "demo": "https://play-noteme.netlify.app/",
+    "source": "https://github.com/boybowboxTH/NoteMe_React"
+  },
+  {
+    "title": "ListMe",
+    "imageSrc": "projects/todolist.png",
+    "description": "It's a Mini Project For My Web Development Bootcamp 2024 Centered On Honing My Skills in React And Use Hooks to Enable Adding And Deleting Text in a To-do List Format",
+    "userid":"",
+    "skills": ["React", "ReactHook", "CSS"],
+    "demo": "https://todolist-listme.netlify.app/",
+    "source": "https://github.com/boybowboxTH/TodolistV2_React"
+  },
+  {
+    "title": "DrumKit",
+    "imageSrc": "projects/drumkit.png",
+    "description": "Earning Experience Where I'm Utilizing Various JavaScript Commands To Create Dynamic Changes For Example When Pressing Certain Letters It Triggers Corresponding Sounds",
+    "userid":"",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "demo": "https://play-drumkit-js.netlify.app/",
+    "source": "https://github.com/boybowboxTH/drumKit_js_Dom"
+  }
+]

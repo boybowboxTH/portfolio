@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Thai Language",
+    "experiences": ["Native Speaker"],
+    "imageSrc": "history/thai.png"
+  },
+  {
+    "role": "Japanese Language",
+    "experiences": ["Dec 2023  Pass Jlpt N2"],
+    "imageSrc": "history/japan.png"
+  },
+  {
+    "role": "English Language",
+    "experiences": ["Intermediate CEFR B1"],
+    "imageSrc": "history/usa.png"
+  }
+  
+]

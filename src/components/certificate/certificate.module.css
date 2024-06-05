@@ -1,0 +1,38 @@
+@import "../../vars.css";
+
+.container {
+    color: var(--color-text);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .slider-container {
+    width: 600px; /* กำหนดขนาดความกว้างของสไลด์เป็น 600px */
+    margin: auto; /* จัดให้สไลด์อยู่กึ่งกลาง */
+  }
+
+
+.slider-header {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+     letter-spacing: 1.75px;
+     text-transform: uppercase;
+     text-align: center;
+     margin-bottom: 40px; 
+  }
+  
+  .slide img {
+    height: 500px;
+    width: 600px;
+    max-height: 500px; /* ขนาดสูงสุดของภาพ */
+    margin-right: 10px;
+  }
+  .slide {
+    display: flex;
+    justify-content: center; /* จัดภาพให้อยู่ตรงกลางแนวนอน */
+    align-items: center; /* จัดภาพให้อยู่ตรงกลางแนวตั้ง */
+
+    
+  }

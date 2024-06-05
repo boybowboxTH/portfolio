@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Student Exchange Program",
+    "experiences": ["I Had The Opportunity To Study Abroad at Meio University in Japan Which Was My First Experience Living in a Foreign Country During My Time There I Also Worked Part-Time This Experience Exposed Me To The Japanese Work Culture And Allowed Me To Learn Firsthand From Japanese Colleagues I Gained Valuable Knowledge And Various Skills From Interacting With Them Which I Can Apply in Different Aspects Of My Life"],
+    "imageSrc": "activity/meio.png"
+  },
+  {
+    "role": "Java Spring Boot Training",
+    "experiences": ["The University Launched a Java Spring Boot Training Program in Collaboration With True Digital a Prominent Telecommunications Company In Thailand It Was My First Exposure To This Framework Sparking My Interest In Web Development Even Further"],
+    "imageSrc": "activity/springboot.png"
+  },
+  {
+    "role": "Volunteer Interpreter",
+    "experiences": ["Aomori University Faculty of Nursing Has Arranged For a Visit To Observe Hospital Operations And Nursing Education In Thailand The Professors Have Hired Volunteer Hospital Interpreters For a Total of 3 Days They Will Assist In Meetings At The Hospital Explaining Treatment Methods Nursing Procedures And Various Innovations"],
+    "imageSrc": "activity/honyaku.png"
+  }
+  
+]
