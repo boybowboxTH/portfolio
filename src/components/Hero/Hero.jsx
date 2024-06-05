@@ -12,7 +12,7 @@ export const Hero = () => {
         <p className={styles.description}>
         I'm Currently Seeking A Position To Leverage My Japanese Language Skills And IT Knowledge Passionate About Computers And Japanese Language Pursuing Second Bachelor's In ComSci Committed To Continuous Self-Development For Company's Benefit
         </p>
-        <div><a href="https://portfolio-supanut.vercel.app/assets/cv-Ci6a2yTa.pdf" target="_blank" className={styles.contactBtn}>
+        <div><a href="https://portfolio-supanut.vercel.app/assets/cv-CYJ_JI0U.pdf" target="_blank" className={styles.contactBtn}>
           CV & Resume
         </a>&emsp;&emsp;
         <a href="mailto:kawpoon43@gmail.com" target="_blank" className={styles.contactBtn}>
