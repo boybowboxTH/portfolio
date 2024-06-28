@@ -5,6 +5,7 @@
   margin-top: 79px;
   margin-left: 10%;
   margin-right: 10%;
+  
 }
 
 .title {
@@ -13,6 +14,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  
 }
 
 .content {
@@ -54,6 +56,7 @@
   font-size: 25px;
   font-family: var(--font-roboto);
   font-weight: 500;
+  
 }
 
 .history {
@@ -106,6 +109,8 @@
     flex-direction: column;
     align-items: center;
     gap: 34px;
+    margin-top: 5vw;
+    
   }
 
   .skills {

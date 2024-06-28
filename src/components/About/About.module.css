@@ -65,6 +65,7 @@
 
 .aboutItem p {
   font-size: 25px;
+  margin: 10px;
 }
 
 @media screen and (max-width: 830px) {
@@ -72,6 +73,8 @@
     background-color: transparent;
     padding-left: 0;
     padding-right: 0;
+    margin-top: 100vw;
+    
   }
 
   .content {
@@ -79,16 +82,30 @@
   }
 
   .aboutImage {
-    display: none;
+    display: relative;
+    width: 100px;
+    
   }
 
   .aboutItems {
     margin-top: 29px;
+    
+
   }
 
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
+    
+    
   }
-  
+  .aboutItem p {
+    font-size: 15px;
+    padding: 5px;
+  }
+  .aboutItem h3 {
+    font-size: 20px;
+    font-weight: 400;
+   
+  }
 }

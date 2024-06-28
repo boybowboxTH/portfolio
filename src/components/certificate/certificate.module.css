@@ -33,6 +33,18 @@
     display: flex;
     justify-content: center; /* จัดภาพให้อยู่ตรงกลางแนวนอน */
     align-items: center; /* จัดภาพให้อยู่ตรงกลางแนวตั้ง */
-
-    
   }
+    @media screen and (max-width: 830px) {
+    
+    .slide img{
+          height: 300px;
+          width: 400px;
+          max-height: 300px; /* ขนาดสูงสุดของภาพ */
+          margin-right: 10px;
+        }
+        .slider-container {
+          width: 400px; /* กำหนดขนาดความกว้างของสไลด์เป็น 600px */
+          margin: auto; /* จัดให้สไลด์อยู่กึ่งกลาง */
+        }
+      }
+    

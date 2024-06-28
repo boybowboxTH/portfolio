@@ -14,11 +14,11 @@ export const Hero = () => {
         </p>
         <div><a href="https://portfolio-supanut.vercel.app/assets/cv-COmKej6x.pdf" target="_blank" className={styles.contactBtn}>
           CV & Resume
-        </a>&emsp;&emsp;
+        </a>
         <a href="mailto:kawpoon43@gmail.com" target="_blank" className={styles.contactBtn}>
           Contact Me
         </a></div>
-      </div>
+        </div>
       <img
         src={getImageUrl("hero/myphoto.png")}
         alt="Hero image of me"
