@@ -44,6 +44,9 @@ const Certificate = () => {
           <div className={styles["slide"]}>
             <img src="https://portfolio-supanut.vercel.app/assets/openlearn-BGUaTgUI.png" alt="Slide 8" />
           </div>
+          <div className={styles["slide"]}>
+            <img src="https://portfolio-supanut.vercel.app/assets/htmlcss.png" alt="Slide 9" />
+          </div>
         </Slider>
       </div>
       </section>
