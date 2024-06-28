@@ -37,9 +37,9 @@
     @media screen and (max-width: 830px) {
     
     .slide img{
-          height: 60vh;
+          height: 45vh;
           width: 80vw;
-          max-height: 60vh; /* ขนาดสูงสุดของภาพ */
+          max-height: 45vh; /* ขนาดสูงสุดของภาพ */
           margin-right: 10px;
         }
         .slider-container {
