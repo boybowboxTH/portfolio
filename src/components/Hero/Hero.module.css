@@ -113,24 +113,24 @@
   }
   .heroImg{
     position: absolute;
-    min-width: 5%;
-    top: 10vh;
+    min-width: 120px;
+    top: 50px;
   }
   .title{
     position: absolute;
-    font-size: 6vw;
-    top: 25vh;
+    font-size: 25px;
+    top: 120px;
   }
   .description{
     position: absolute;
-    font-size: 4vw;
-    top: 35vh;
+    font-size: 18px;
+    top: 170px;
     left: 10vw;
   }
   .contactBtn {
-    font-size: 2vw;
+    font-size: 10px;
     position: relative; 
-    top: 72vh;
+    top: 360px;
     margin: 20px;
     margin-top: 100px; 
   }
