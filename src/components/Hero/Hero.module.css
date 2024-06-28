@@ -130,6 +130,8 @@
   .contactBtn{
     font-size: 2vw;
     position: relative;
-    top: 70vh;
+    top: 72vh;
+    margin-bottom: 20px;
+    gap: 10px;
   }
 }
